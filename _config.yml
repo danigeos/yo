@@ -1,4 +1,4 @@
-/# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/my_profile_picture_pixelized.jpg"
-  name: "Daniel GC"
-  pronouns: 
-  bio: "Geophysicist"
-  location         : "Barcelona"
+  avatar           : "profile.png"
+  name             : "Daniel GC"
+  pronouns         : # example: "she/her"  
+  bio              : "Geophysicist"
+  location         : "Earth"
   employer         : "CSIC"
   uri              : # URL
   email            : "d.g.c@csic.es" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-8454-8572"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : https://www.zotero.org/danielgc
