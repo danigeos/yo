@@ -23,11 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar:            "/images/my_profile_picture_pixelized.jpg"
-  avatar           : "/images/my_profile_picture_pixelized.jpg"
-  name             : "Daniel GC"
-  pronouns         : # example: "she/her"  
-  bio              : "Geophysicist"
+  avatar: "/images/my_profile_picture_pixelized.jpg"
+  name: "Daniel GC"
+  pronouns: 
+  bio: "Geophysicist"
   location         : "Barcelona"
   employer         : "CSIC"
   uri              : # URL
