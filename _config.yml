@@ -27,7 +27,7 @@ author:
   name             : "Daniel GC"
   pronouns         : # example: "she/her"  
   bio              : "Geophysicist"
-  location         : "Earth"
+  location         : "Barcelona"
   employer         : "CSIC"
   uri              : # URL
   email            : "d.g.c@csic.es" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-8454-8572"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : https://www.zotero.org/danielgc
